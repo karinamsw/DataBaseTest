@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application3333</string>
+    <string name="some_hint">some_hint</string>
+    <string name="some_text">some_text</string>
+    <string name="region">Region:</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="textview">textview</string>
+    <string name="liste_des_medecins">Liste des medecins</string>
+</resources>
